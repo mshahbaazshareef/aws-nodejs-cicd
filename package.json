@@ -1,22 +1,9 @@
 {
-  "name": "aws-nodejs-cicd",
-  "version": "1.0.0",
-  "description": "test app for aws",
-  "main": "app.js",
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
   "scripts": {
     "start": "node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mshahbaazshareef/aws-nodejs-cicd.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mshahbaazshareef/aws-nodejs-cicd/issues"
-  },
-  "homepage": "https://github.com/mshahbaazshareef/aws-nodejs-cicd#readme",
-  "dependencies": {
-    "express": "^4.17.1"
   }
 }
